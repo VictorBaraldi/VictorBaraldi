@@ -5,8 +5,6 @@
 <br>
 <div>
 <a href="https://github.com/VictorBaraldi">
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorBaraldi&layout=compact&langs_count=7&theme=chartreuse-dark"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=VictorBaraldi&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
 <div>
 <br>
 <a href = "mailto:victor_baraldi@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
