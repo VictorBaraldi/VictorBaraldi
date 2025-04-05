@@ -1,7 +1,6 @@
 <h1>Olá, me chamo Victor Hugo de Almeida Baraldi! </h1>
 
 - :books: Cursando Sistemas de Informação em Bebedouro-SP
-- Atuamente focado em back-end com a linguagem python, apredendo sobre automações.
 <br>
 <div>
 <a href="https://github.com/VictorBaraldi">
